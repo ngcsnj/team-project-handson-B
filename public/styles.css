@@ -52,3 +52,26 @@ footer {
     width: 100%;
     font-size: 0.9rem;
 }
+
+
+/* お問い合わせフォームの中央寄せと整形 */
+#contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
