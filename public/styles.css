@@ -52,3 +52,24 @@ footer {
     width: 100%;
     font-size: 0.9rem;
 }
+
+/* ログインフォームの中央寄せと整形 */
+#login-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
